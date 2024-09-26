@@ -23,11 +23,13 @@ import "./styles.css";
  *
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
+
+/* 맨위 사진에 나오는 설명 수정 가능  */
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
+  name: "조태석",
+  title: "Test",
+  email: "abc@naver.com",
+  gitHub: "https://github.com/C7266",
   instagram: "microsoft",
   linkedIn: "satyanadella",
   medium: "",
